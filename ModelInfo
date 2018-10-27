@@ -1,0 +1,14 @@
+//
+//  personal_Info.swift
+//  final
+//
+//  Created by Janson Kramer on 10/27/18.
+//  Copyright © 2018 Janson Kramer. All rights reserved.
+//
+
+import Foundation
+
+struct Info {
+    var name: String
+    var age: Int
+}
